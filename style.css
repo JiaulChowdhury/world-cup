@@ -217,7 +217,7 @@ footer hr{
 }
 
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 480px) {
     .top-banner {
         flex-direction: column;
     }
@@ -245,7 +245,7 @@ footer hr{
     }
     
 }
-@media screen and (min-width: 577px) and (max-width: 992px){
+@media screen and (min-width: 481px) and (max-width: 768px){
 
     .main-box{
         grid-template-columns: repeat(2, 1fr);
